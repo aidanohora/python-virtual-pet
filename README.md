@@ -1,4 +1,4 @@
-# Python-Virtual-Pet
+# python-virtual-pet
 A simple Python virtual pet with multithreading and command line graphics (windows only).
 
 Pre-requisites:
